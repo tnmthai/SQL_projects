@@ -1,2 +1,2 @@
 # SQL_projects
- ALl SQL for Data with Danny
+ All SQL for Data with Danny
