@@ -18,7 +18,7 @@ menu
 members
 You can inspect the entity relationship diagram and example data below.
 
-## Solutions
+## Solutions by Thai Tran
 ### 1. What is the total amount each customer spent at the restaurant?
 
 ```sql
